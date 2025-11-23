@@ -18,6 +18,12 @@ A real-time intrusion detection system using YOLO object detection and DeepSORT 
 - ✅ **Zone Persistence** - Zones saved to JSON and auto-loaded
 
 
+## 🎥 Demo
+
+![Demo Screenshot](demo_screenshot.png)
+
+*Example: System detecting person entering restricted zone*
+
 
 ## 🏗️ Architecture
 ```
